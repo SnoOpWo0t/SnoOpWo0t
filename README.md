@@ -32,7 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snopwoot&show_icons=true&locale=en&layout=compact" alt="snopwoot" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snopwoot&show_icons=true&locale=en" alt="snopwoot" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snopwoot&" alt="snopwoot" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snopwoot" alt="snopwoot" /></a> </p>
