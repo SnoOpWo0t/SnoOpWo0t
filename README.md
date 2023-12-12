@@ -1,7 +1,7 @@
 [![MasterHead](![Alt text](_99a17b8f-20a6-4cfb-8a3b-9f52bba62cc.jpeg))]
 <h1 align="center">Hi 👋, I'm Afrin Sultana Akhi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align = "right" alt ="Coding" width="400" src="https://www.pinterest.jp/pin/823947694326021454/">
+<img align ="right" alt ="coding" width ="400" src ="https://tenor.com/en-GB/view/programming-gif-25868426.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snoopwo0t&label=Profile%20views&color=0e75b6&style=flat" alt="snoopwo0t" /> </p>
 
