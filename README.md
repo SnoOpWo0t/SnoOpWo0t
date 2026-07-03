@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋,%20I'm%20Afrin%20Sultana%20Akhi&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20from%20Bangladesh&descAlignY=55&descAlign=50" alt="header"/>
+  <img src="https://tenor.com/en-GB/view/programming-gif-25868426.gif" alt="header"/>
 </div>
 
 <h3 align="center">A passionate frontend developer from Bangladesh turning ideas into digital reality.</h3>
